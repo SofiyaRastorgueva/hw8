@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "Все отлично, люблю gephi и цг!",
+    "intro": "Программа gephi правельно разделила моих друзей на группы.",
+    "title": ""
+  },
+  "legend": {
+    "edgeLabel": "Края разграничивают разные группы моих друзей.",
+    "colorLabel": "Фиолетовый цвет - друзья из школы, зеленый цвет - одногруппники, желтый цвет - друзья из поездки, Серый цвет - друзья из поездки в UK, бирюзовый цвет - группа друзей из моего города, оранжевый цвет - друзья из лингвистической школы, Голубой цвет - друзья из театрально школы.",
+    "nodeLabel": "Узлы представляют собой связи между моими друзьями в vk."
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
